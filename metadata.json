@@ -1,0 +1,6 @@
+{
+  "name": "lightning-browse",
+  "identifier": "com.domain.app.lightningbrowse",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
