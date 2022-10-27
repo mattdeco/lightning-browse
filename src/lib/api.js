@@ -1,10 +1,3 @@
-// https://api.themoviedb.org/3/movie/upcoming?api_key=a01170454c6b8755a69617eadc51091d&language=en-US&page=1
-
-/*
-page: int
-total_pages: int
-*/
-
 const API_URL = 'https://api.themoviedb.org/3'
 const API_KEY = 'a01170454c6b8755a69617eadc51091d'
 const LAST_PAGE = 31

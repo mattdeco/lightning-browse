@@ -14,7 +14,8 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "dev": "lng dev"
+    "dev": "lng dev",
+    "build:prod": "lng dist"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
